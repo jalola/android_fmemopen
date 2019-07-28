@@ -1,6 +1,3 @@
-//
-// Created by advance on 12/9/18.
-//
 
 #ifndef AAI_COMMON_H
 #define AAI_COMMON_H
